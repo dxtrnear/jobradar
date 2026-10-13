@@ -1,0 +1,12 @@
+data/
+.env
+config.toml
+profile/
+!profile/profile.example.md
+
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
